@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  #cart-container {
+    max-width: 800px;
+    margin: auto;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  #cart-total {
+    text-align: right;
+    margin-top: 20px;
+  }
+  
+  #checkout-btn {
+    float: right;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
